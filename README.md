@@ -1,4 +1,4 @@
-# Solide™ App & Sensor
+# Solide™ Hydration & Sensor
 
 Welcome to the  Solide™ App & Sensor – a revolutionary approach to tracking and improving daily hydration habits.
 
