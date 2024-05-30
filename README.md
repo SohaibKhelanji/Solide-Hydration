@@ -1,6 +1,6 @@
 # Solide™ Hydration & Sensor
 
-Welcome to the  Solide™ App & Sensor – a revolutionary approach to tracking and improving daily hydration habits.
+Welcome to the  Solide™ Hydration & Sensor – a revolutionary approach to tracking and improving daily hydration habits.
 
 Promo video: https://www.youtube.com/watch?v=1KwiwaLpJ-g
 
